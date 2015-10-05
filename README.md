@@ -4,7 +4,7 @@ A PHP web application to search Linux commands.
 
 ## Deploying
 
-The easiest way to deploy this application is via Heroku.
+The easiest way to deploy LinuxBuddy is via Heroku.
 
 ```sh
 $ git clone git@github.com:LinuxBuddy/linuxbuddy-web.git
