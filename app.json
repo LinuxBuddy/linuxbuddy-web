@@ -1,0 +1,6 @@
+{
+  "name": "LinuxBuddy",
+  "description": "A PHP web application to help developers recall Linux commands.",
+  "repository": "https://github.com/heroku/php-getting-started",
+  "addons": []
+}
