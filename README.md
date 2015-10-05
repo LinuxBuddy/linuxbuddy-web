@@ -1,6 +1,6 @@
 # LinuxBuddy
 
-PHP web application to help developers recall Linux commands.
+A PHP web application to help developers recall Linux commands.
 
 ## Deploying
 
