@@ -1,6 +1,6 @@
 {
   "name": "LinuxBuddy",
   "description": "A PHP web application to search Linux commands.",
-  "repository": "https://github.com/LinuxBuddy/linuxbuddy-web",
+  "repository": "https://github.com/linuxbuddy/linuxbuddy-web",
   "addons": []
 }
