@@ -1,6 +1,6 @@
 # LinuxBuddy
 
-A PHP web application to recall Linux commands.
+A PHP web application to search Linux commands.
 
 ## Deploying
 
